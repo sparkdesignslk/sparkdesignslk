@@ -669,7 +669,7 @@ body {
 	left: 10px;
 	color: #C70000;
 	font-size: 14px;
-	font-weight: 300;
+	font-weight: 400;
 	opacity: 0;
 	visibility: hidden
 }
@@ -681,7 +681,7 @@ body {
 	left: 10px;
 	color: #282828;
 	font-size: 14px;
-	font-weight: 300
+	font-weight: 400
 }
 
 .side-nav li:nth-child(1)::before {
